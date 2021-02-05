@@ -23,7 +23,7 @@ The purpose of the application was to be able to more easily *access* my data by
 
 I think this application could be useful for deciding which parameters to use for segmentation and identification of features within a dataset before performing these operations on the entire dataset. It's particularly helpful for large datasets where the important information is restricted to several regions of interest, which can be viewed much faster than the entire dataset. Additionally, using the statistics plots, I think this application could help with deciding how to perform automated tasks on a datasets or be used as a method to assess how well an automated task is performing.
 
-At least I think it could be useful to get a better sense at what information can be obtained from an image dataset and help decide whether certain image analysis could be automated.
+It could be useful to get a better sense at what information can be obtained from an image dataset and help decide whether certain image analysis could be automated.
 
 ## How to use this Application
 
